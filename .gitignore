@@ -3,3 +3,4 @@
 **/__pycache__
 .vscode
 sptoken.txt
+auth_code.py

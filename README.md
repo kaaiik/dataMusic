@@ -1,5 +1,6 @@
 # Proyecto ETL
-El principal objetivo de este proyecto es intentar extraer algún tipo de relación entre la música más escuchada y las drogas consumidas por la población en distintas épocas del siglo XX y XXI.
+El objetivo de este proyecto es intentar extraer algún tipo de relación entre la música más escuchada y las drogas consumidas por la población en distintas épocas del siglo XX y XXI.
+
 El principal inconveniente que he encontrado es la localización de una base de datos consistente para la extracción de datos sobre el consumo de alcohol y drogas, especialmente desde los años 60 hasta los 90.
 
 ## Extracción de datos de la Spotify API

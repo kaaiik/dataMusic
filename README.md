@@ -25,3 +25,4 @@ Se ha descargado una base de datos sobre el consumo de estas sustancias en años
 -Base64
 -Urlencode
 -Datetime
+-BeautifulSoup

@@ -16,3 +16,12 @@ En este caso, se va a scrappear desde wikipedia los charts de billboard para cad
 ## Extracción de datos desde Kaggle sobre el consumo de alcohol y droga en Alemania
 Se ha descargado una base de datos sobre el consumo de estas sustancias en años sueltos desde los años 60, que nos permiten hacernos una idea del consumo habitual en personas de entre 15 y 25 años.
 
+
+## Librerías utilizadas
+
+-Pandas
+-Requests
+-Time
+-Base64
+-Urlencode
+-Datetime
